@@ -18,3 +18,7 @@ This file is just a README file.
 
 ## Purpose2
 
+## Getting Started 
+
+To get started with this project, just `clone` this repository.
+
